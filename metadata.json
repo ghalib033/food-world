@@ -1,0 +1,6 @@
+{
+  "name": "Food World",
+  "description": "Delicious food delivery app featuring Veg & Non-Veg menus, state location filtering, cart management, cash on delivery, and live order tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
